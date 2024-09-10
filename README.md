@@ -1,1 +1,1 @@
-# Bai_tap_CS50
+# Đây là một số bài tập em đã làm trong khóa học CS50
